@@ -1,0 +1,35 @@
+Bacterial Leaf Blight (BLB)
+
+- Cause: BLB is caused by Xanthomonas oryzae pv. oryzae, a bacterial pathogen that enters rice through hydathodes or wounds.
+- Symptoms: Water-soaked lesions beginning at leaf tips and margins, turning yellow and then brown. In severe cases, leaves dry completely and appear scorched.
+- Spread: Transmitted via wind-driven rain, irrigation water, infected seeds, and contaminated tools.
+- Growth Stage Affected: Most destructive during the tillering to booting stages.
+- Diagnosis: Based on characteristic lesions, confirmed through bacterial isolation, PCR, or ELISA lab tests.
+- Favorable Conditions: High humidity, heavy rainfall, temperatures of 25–34°C, and poor drainage.
+- Management: Use of resistant rice varieties, crop rotation, copper-based bactericides, optimal nitrogen levels, and proper water control.
+- Confusion With: May resemble bacterial leaf streak or fungal blights, requiring precise diagnosis.
+- Genetic Resistance: Genes like Xa4, Xa21, and Xa13 provide resistance to specific BLB strains.
+
+Rice Blast
+
+- Cause: Caused by the fungus Magnaporthe oryzae. It affects all above-ground parts of the rice plant.
+- Symptoms: Diamond or spindle-shaped lesions with grayish-white centers and dark brown borders. Severe infections lead to neck blast affecting nodes and panicles.
+- Spread: Spreads through airborne spores, wind, rain splash, and infected plant debris or seeds.
+- Growth Stage Affected: Most damaging during seedling, tillering, and heading stages.
+- Diagnosis: Based on lesion patterns and confirmed by fungal isolation or PCR.
+- Favorable Conditions: Cool temperatures (20–28°C), high humidity, prolonged leaf wetness, and dense planting.
+- Management: Use resistant varieties, apply fungicides like tricyclazole, maintain balanced fertilization, ensure proper plant spacing, and remove infected debris.
+- Genetic Resistance: Resistance genes include Pi54, Pi9, and Piz-t. However, the fungus can mutate to overcome resistance.
+- Cross-infection: Some M. oryzae strains can infect other grasses, but most are rice-specific.
+
+Brown Spot
+
+- Cause: Caused by the fungus Bipolaris oryzae, which survives in infected seeds, soil, and crop debris.
+- Symptoms: Circular to oval brown lesions with a light center and dark brown border. Severe infections may cause seed discoloration and reduced grain quality.
+- Spread: Through windborne conidia, infected seeds, rain splash, and contaminated field equipment.
+- Growth Stage Affected: Can occur at any stage but is most damaging during seedling, tillering, and grain maturity stages.
+- Diagnosis: Based on leaf spot characteristics and confirmed by fungal culture or microscopy.
+- Favorable Conditions: Warm temperatures (25–30°C), high humidity, drought stress, and nutrient-deficient soils (especially low nitrogen, potassium, or silicon).
+- Management: Use certified disease-free seeds, resistant varieties, balanced fertilizers, fungicide seed treatment (e.g., carbendazim), and good field sanitation.
+- Resistance: Some rice cultivars show moderate resistance depending on region and fungal strain.
+- Seed Impact: Affects seed health by reducing germination rate, causing discoloration, and decreasing milling quality.
