@@ -13,23 +13,25 @@
 
 This repository presents a YOLOv5-based system that detects **rice plant diseases** (Rice Blast, Brown Spot, Bacterial Leaf Blight) and generates privacy-preserving, real-time responses. It integrates:
 
-- 🔐 Differential Privacy using Opacus
-- ✂️ Model Compression via Structured Pruning
-- 🤖 LLaMA-2-based RAG pipeline for natural language advice
+- 🔐 Differential Privacy using Opacus  
+- ✂️ Model Compression via Structured Pruning  
+- 🤖 RAG pipeline using LLaMA-2 and FAISS for generating disease alert messages  
 
 ---
 
 ## 📌 Highlights
 
-- ⚙️ YOLOv5 fine-tuned on custom rice disease dataset
-- 🔐 Differentially Private SGD (DP-SGD) with Opacus
-- ✂️ Structured pruning to reduce model size by up to 30%
-- 📘 RAG: LLaMA-2 + FAISS + curated `rag_docs.txt`
-- 📊 Evaluation using mAP, F1-score, and ROUGE
+- ⚙️ YOLOv5 fine-tuned on a custom rice disease dataset  
+- 🔐 Differentially Private SGD (DP-SGD) via Opacus  
+- ✂️ Structured pruning to reduce model size by up to 30%  
+- 📘 Retrieval-Augmented Generation using `rag_docs.txt`  
+- 📊 Evaluation includes mAP, F1-score, and ROUGE metrics  
 
 ---
 
 ## 📁 Project Structure
+
+
 
 
 
