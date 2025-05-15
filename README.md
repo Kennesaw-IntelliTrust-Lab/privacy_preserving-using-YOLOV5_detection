@@ -58,3 +58,11 @@ python prune_yolov5.py --weights yolov5s.pt --prune-ratio 0.3
 
 
 Apply Structured Pruning
+python prune_yolov5.py --weights yolov5s.pt --prune-ratio 0.3
+
+Run detection:
+python detect.py --weights runs/train/exp/weights/best.pt --source path/to/test/images
+
+
+RAG-Based Disease Advice
+python llama_rag/scripts/rag_enquiry.py --query "How to treat bacterial leaf blight?"
