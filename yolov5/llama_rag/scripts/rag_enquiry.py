@@ -19,7 +19,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # Hugging Face Login
-HF_TOKEN = "YOUR HF TOKEN"
+HF_TOKEN = "YOUR-HF TOKEN"
 login(token=HF_TOKEN)
 
 # ----------------------
