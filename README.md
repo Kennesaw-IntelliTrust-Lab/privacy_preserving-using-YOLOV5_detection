@@ -31,3 +31,30 @@ This repository presents a YOLOv5-based system that detects **rice plant disease
 
 ## 📁 Project Structure
 
+
+
+
+---
+
+## 🚀 Quickstart
+
+### 🔧 Setup
+
+```bash
+git clone https://github.com/Kennesaw-IntelliTrust-Lab/privacy_preserving-using-YOLOV5_detection.git
+cd privacy_preserving-using-YOLOV5_detection
+pip install -r requirements.txt
+
+
+
+ Train with Differential Privacy
+
+
+python train_dp.py --img 640 --batch 16 --epochs 100 --data data.yaml --cfg yolov5s.yaml \
+--dp --noise-multiplier 0.8 --max-grad-norm 5.0 --delta 1e-5
+
+python prune_yolov5.py --weights yolov5s.pt --prune-ratio 0.3
+
+
+
+Apply Structured Pruning
